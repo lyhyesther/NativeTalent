@@ -1,3 +1,3 @@
 # NativeTalent
 
-native app developer by c++ or c.
+native app developed by c++ or c.
